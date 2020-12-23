@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615002944805",
+    "firebase_url": "https://golet-45dff.firebaseio.com",
+    "project_id": "golet-45dff",
+    "storage_bucket": "golet-45dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615002944805:android:6bcc88ae6c3664a37816cc",
+        "android_client_info": {
+          "package_name": "com.example.golet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615002944805-cnv3u4m5bn9mu0214edej45qfvre63nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzrN4bJtAvb5sYcx-HqxkDmmdABWU-9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615002944805-cnv3u4m5bn9mu0214edej45qfvre63nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
